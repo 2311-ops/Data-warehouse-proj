@@ -166,6 +166,7 @@ Draw.io (Star Schema diagram)
 Git & GitHub
 
 ✅ Key Features
+<img width="1260" height="818" alt="Screenshot 2026-02-28 042702" src="https://github.com/user-attachments/assets/e8d502b1-8026-4186-ba65-54c67d6f2e51" />
 
 Medallion Architecture (Bronze / Silver / Gold)
 
@@ -179,12 +180,8 @@ Production-style stored procedures
 
 Analytics-ready Star Schema
 
+
 📈 Future Enhancements
-
-Incremental loading
-
-Data quality checks (row counts, nulls)
-
 Audit & load history tables
 
 Power BI integration
@@ -200,3 +197,4 @@ Computer Science Student | Aspiring Data Engineer
 GitHub: https://github.com/2311-ops
 
 LinkedIn: https://www.linkedin.com/in/youssef-hassan-5b86b4323/
+
