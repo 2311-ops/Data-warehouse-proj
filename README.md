@@ -203,5 +203,5 @@ Computer Science Student | Aspiring Data Engineer
 
 GitHub: https://github.com/2311-ops
 
-LinkedIn: https://www.linkedin.com/in/youssef-hassan-5b86b4323/
+LinkedIn: https://www.linkedin.com/in/youssef-hassan-atef-3aa19b39b/
 
