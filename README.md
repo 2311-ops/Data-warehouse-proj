@@ -7,7 +7,10 @@ Raw operational data from CRM and ERP systems is ingested, cleaned, transformed,
 
 The focus is on real-world data engineering practices: data quality, transformations, SCD handling, and production-style SQL workflows.
 
+
 🧱 Architecture
+<img width="1260" height="818" alt="Screenshot 2026-02-28 042702" src="https://github.com/user-attachments/assets/e8d502b1-8026-4186-ba65-54c67d6f2e51" />
+
 CSV Source Files
         ↓
 Bronze Layer (Raw Data)
@@ -77,6 +80,8 @@ Execution time logging (per table & per batch)
 Error handling using TRY...CATCH
 
 Tables
+<img width="305" height="626" alt="Screenshot 2026-02-28 042556" src="https://github.com/user-attachments/assets/20d67a35-78b1-46b7-8492-0694e6e41ad4" />
+
 
 silver.crm_cust_info
 
@@ -108,14 +113,17 @@ Filtered to current records where applicable
 Gold Objects
 
 gold.fact_sales
+<img width="903" height="364" alt="Screenshot 2026-02-28 042448" src="https://github.com/user-attachments/assets/055a0640-dadf-4a48-9821-2c600c4fa9b1" />
+
 
 gold.dim_customer
+<img width="960" height="465" alt="Screenshot 2026-02-28 042515" src="https://github.com/user-attachments/assets/2d668d42-14f7-46e0-aa6d-014fe56cc2af" />
+
 
 gold.dim_product
+<img width="1120" height="388" alt="Screenshot 2026-02-28 042215" src="https://github.com/user-attachments/assets/b69af3d6-56ba-450c-92c6-f2fd1bdc27b6" />
 
-gold.dim_date
 
-gold.dim_location
 
 Use Cases
 
@@ -166,7 +174,6 @@ Draw.io (Star Schema diagram)
 Git & GitHub
 
 ✅ Key Features
-<img width="1260" height="818" alt="Screenshot 2026-02-28 042702" src="https://github.com/user-attachments/assets/e8d502b1-8026-4186-ba65-54c67d6f2e51" />
 
 Medallion Architecture (Bronze / Silver / Gold)
 
